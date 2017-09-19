@@ -1,5 +1,5 @@
 {
-  "name": "mongochat",
+  "name": "appat",
   "version": "1.0.0",
   "description": "Simple chat app using sockets",
   "main": "server.js",
@@ -11,5 +11,14 @@
   "dependencies": {
     "mongodb": "^2.2.31",
     "socket.io": "^2.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonperillo/appat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marlonperillo/appat/issues"
+  },
+  "homepage": "https://github.com/marlonperillo/appat#readme"
 }
